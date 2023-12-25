@@ -3,7 +3,7 @@ grammar
 ```
 DATE:20231223
 
-am/is/are doing 现在进行时
+am/is/are + doing 现在进行时
 She is driving.
 
 主语 + do/does + 动词原形 一般现在时（客观事实/习惯性动作）
@@ -31,4 +31,10 @@ Was your weekend OK? -- Yes,it was /--No,it wasn't
 
 特殊疑问句：特殊疑问词 + 一般疑问句 
 Where were you yesterday？ --I was at home。
+```
+```
+DATE:20231225
+过去进行时 表示过去某一时间/某段时间正在发生/进行的动作
+was/were + -ing
+Today she is wearing a skirt,Yesterday she was wearing trousers.
 ```

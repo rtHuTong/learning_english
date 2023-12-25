@@ -16,7 +16,7 @@ crocodile
 superior
 deliberate
 decisive 决定性的；果断的；坚定的 adj
-substantial .
+substantial 
 ```
 ```
 DATE:20231224
@@ -33,5 +33,20 @@ illusion
 industrious
 consignment
 intersection
-cardiovascular
+cardiovascular 心血管的 adj
+```
+```
+DATE:20231225
+epitomise
+emergency
+counterpart
+erosion
+divisional
+ultimate
+counsellor
+potential
+discretion 谨慎；慎重；自行决定 n
+pirate
+irritation 刺激；刺激物；激怒；兴奋 n 
+vertebrate
 ```
