@@ -1,8 +1,7 @@
-grammar
+## grammar
 
+Date: 20231223
 ```
-DATE:20231223
-
 am/is/are + doing 现在进行时
 She is driving.
 
@@ -10,9 +9,8 @@ She is driving.
 The sky is blue.
 I get up at six every day.
 ```
+Date: 20231224
 ```
-DATE:20231224
-
 一般过去时（过去的动作/状态）
 
 肯定句：主语 + 动词过去式   / 主语 + was/were
@@ -32,9 +30,15 @@ Was your weekend OK? -- Yes,it was /--No,it wasn't
 特殊疑问句：特殊疑问词 + 一般疑问句 
 Where were you yesterday？ --I was at home。
 ```
+Date: 20231225
 ```
-DATE:20231225
 过去进行时 表示过去某一时间/某段时间正在发生/进行的动作
 was/were + -ing
 Today she is wearing a skirt,Yesterday she was wearing trousers.
+```
+Date: 20231226
+```
+I have done 现在完成时
+I have lost my pen.
+He has finished his work.
 ```

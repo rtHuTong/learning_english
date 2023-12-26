@@ -1,13 +1,9 @@
 
 ## word
 
-```
-This is a test word.
-```
 
+Date: 20231223
 ```
-DATE:20231223
-
 methane
 mutual
 whistle
@@ -18,8 +14,8 @@ deliberate
 decisive 决定性的；果断的；坚定的 adj
 substantial 
 ```
+Date: 20231224
 ```
-DATE:20231224
 periodical
 regional
 maturity
@@ -35,8 +31,8 @@ consignment
 intersection
 cardiovascular 心血管的 adj
 ```
+Date: 20231225
 ```
-DATE:20231225
 epitomise
 emergency
 counterpart
@@ -49,4 +45,18 @@ discretion 谨慎；慎重；自行决定 n
 pirate
 irritation 刺激；刺激物；激怒；兴奋 n 
 vertebrate
+```
+Date: 20231226
+```
+decrepit
+ignorant
+leopard
+mastery
+forecast
+precision
+quote
+comparative
+recruit
+gloss
+organic
 ```
