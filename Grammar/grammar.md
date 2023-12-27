@@ -42,3 +42,12 @@ I have done 现在完成时
 I have lost my pen.
 He has finished his work.
 ```
+Date: 20231227
+```
+I/we/they/you have been doing
+he/she/it has been doing 
+现在完成进行时
+It has been raining for two hours.
+I have been looking for you for the last half hour.
+She hasn't been feeling well recently.
+```
