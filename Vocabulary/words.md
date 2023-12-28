@@ -74,3 +74,17 @@ committee
 expel
 recruit
 ```
+Date: 20231228
+```
+privilege
+pulley
+suitably
+anthropologist
+withstand
+entertain
+consequently
+outward
+refrigerator
+regulate
+wastage
+```
