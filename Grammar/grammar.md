@@ -61,7 +61,15 @@ He was sleeping at this time yesterday.
 过去完成进行时 had been doing（某一动作一直持续到过去某一时间）
 At last the bus came，I had been waiting for half an hour.
 ```
+```
+将来：
 
+一般将来时 will do
+主观意愿的将来：I will visit my grandparents this weekend.
+客观将来：Maybe people will live up to be over 100 years old in 100 years.
+临时决定：She has been ill for 3 days.
+oh，I'm sorry to hear that,I will go and see her.
+```
 
 
 
