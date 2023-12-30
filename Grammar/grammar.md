@@ -69,6 +69,10 @@ At last the bus came，I had been waiting for half an hour.
 客观将来：Maybe people will live up to be over 100 years old in 100 years.
 临时决定：She has been ill for 3 days.
 oh，I'm sorry to hear that,I will go and see her.
+
+将来进行时 will be doing
+将来某一时刻正在进行的动作或状态：I will be taking a shower at 9 tomorrow.
+将来一段时间内正在进行的动作或者状态：I will be taking my holiday all summer vocation.
 ```
 
 
