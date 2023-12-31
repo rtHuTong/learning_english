@@ -73,6 +73,10 @@ oh，I'm sorry to hear that,I will go and see her.
 将来进行时 will be doing
 将来某一时刻正在进行的动作或状态：I will be taking a shower at 9 tomorrow.
 将来一段时间内正在进行的动作或者状态：I will be taking my holiday all summer vocation.
+
+将来完成时 will have done
+将来某一时间已经完成的动作：You will have arrived in Sanghai by this time tomorrow.
+某一动作前已经完成的动作：The train will have left when we got to the railway station.
 ```
 
 
