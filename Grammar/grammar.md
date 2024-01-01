@@ -77,6 +77,10 @@ oh，I'm sorry to hear that,I will go and see her.
 将来完成时 will have done
 将来某一时间已经完成的动作：You will have arrived in Sanghai by this time tomorrow.
 某一动作前已经完成的动作：The train will have left when we got to the railway station.
+
+将来完成进行时 will have been doing
+某一动作某一时间开始一直持续到将来某时间
+I will have been waiting for you before death.
 ```
 
 
