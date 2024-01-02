@@ -140,3 +140,16 @@ latent
 scandal
 truant
 ```
+Date: 20240102
+```
+virtually
+sore
+awful
+former
+hide
+destiny
+evaporate
+exotic
+transfer
+concern
+```

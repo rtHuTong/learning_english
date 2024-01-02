@@ -82,6 +82,12 @@ oh，I'm sorry to hear that,I will go and see her.
 某一动作某一时间开始一直持续到将来某时间
 I will have been waiting for you before death.
 ```
+```
+过去将来：
 
+过去将来时 would do
+从过去某一时间看将要发生的事情
+Yesterday,I told mom that I would marry him next month.
+```
 
 
