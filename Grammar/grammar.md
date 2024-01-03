@@ -88,6 +88,10 @@ I will have been waiting for you before death.
 过去将来时 would do
 从过去某一时间看将要发生的事情
 Yesterday,I told mom that I would marry him next month.
+
+过去将来进行时 would be doing
+就过去某时间而言，将来某时间正在进行的动作，主要用于从句
+Yesterday,I told mom that I would be meeting him at 6:00 tomorrow.
 ```
 
 
