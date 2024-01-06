@@ -92,6 +92,14 @@ Yesterday,I told mom that I would marry him next month.
 过去将来进行时 would be doing
 就过去某时间而言，将来某时间正在进行的动作，主要用于从句
 Yesterday,I told mom that I would be meeting him at 6:00 tomorrow.
+
+过去将来完成时 would have done
+就过去时间而言，将来某时间之前完成的动作，常用于虚拟语气，表示与过去事实相反
+I thought you would have left.
+
+过去将来完成进行时 would have been doing
+就过去时间而言，将来某时间之前一直进行的动作。
+I would bave been waiting for you before 10 years.
 ```
 
 
