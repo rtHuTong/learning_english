@@ -205,3 +205,16 @@ pitch
 entitle
 shutter
 ```
+Date: 20240107
+```
+statistics
+oppose
+defect
+distribution
+decay
+benefit
+circulation
+cope
+durable 耐用的，持久的 adj; 耐用品 n
+demolish
+```
