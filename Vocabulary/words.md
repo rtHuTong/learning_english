@@ -218,3 +218,15 @@ cope
 durable 耐用的，持久的 adj; 耐用品 n
 demolish
 ```
+Date: 20240108
+```
+corrode
+cooperative
+atmospheric
+energetic
+ornament
+propose
+excusable
+approximately
+stuffy
+```
