@@ -362,7 +362,7 @@ transparent
 Date: 20240120
 ```
 collate
-formulatw
+formulate
 ripe
 vet
 acute
@@ -370,4 +370,18 @@ fragrance
 bind
 fraud
 deputy
+```
+Date: 20240121
+```
+auditorium
+redevelopment
+consensus
+trimester
+interpretation
+casual
+creep
+sector
+fiction
+collate
+formulate
 ```
