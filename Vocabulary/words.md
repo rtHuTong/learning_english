@@ -396,3 +396,32 @@ furnish
 condition
 auditorium
 ```
+Date: 20240123
+```
+examine
+slippery
+significance
+magnetic
+celebrity
+habitat
+terrify
+priority
+restriction
+```
+Date: 20240124
+```
+exaggerate
+sledge
+tutorial
+reckon
+reorient
+narrator
+deem
+definite
+alignment
+consensus
+interpretation
+collate
+formulate
+fraud
+```
