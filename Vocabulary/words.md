@@ -597,3 +597,26 @@ consideration
 grip
 disposal
 ```
+
+Date: 20240419
+```
+consortium
+substantial
+concept
+concentration
+perceive
+assume
+calibre
+intimate
+anecdotal
+primitive
+delicate
+exacerbate
+loyalty
+terrain
+coupon
+catalogue
+prerequisite
+prospective
+pliable
+```
