@@ -698,3 +698,21 @@ auditorium
 exaggerate
 aesthetic
 ```
+Date: 20240425
+```
+reverse
+fraud
+permanent
+curative
+predominantly
+asthma
+compatible
+entrepreeneur
+crank
+curriculum
+prospective
+mansion
+torrent
+mammal
+parallel
+```
