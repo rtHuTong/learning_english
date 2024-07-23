@@ -769,3 +769,17 @@ preconception
 propel
 orphan
 ```
+Date: 20240723
+```
+inductive reasioning
+cloakroom
+emphasize
+pretension
+simulate
+artificial
+compel
+reinforce
+curious
+optical
+tunnel
+```
