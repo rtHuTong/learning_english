@@ -783,3 +783,34 @@ curious
 optical
 tunnel
 ```
+Date: 20240807
+```
+exaggerate
+imitate
+When you imitate me,exaggerate it.
+
+compatible
+I basically am his compatible,was his competitor worked for a privately owned company.
+
+deception
+
+consolidation
+Part of his broader power consolidation that his opponents call Aku.
+
+mansion
+pretension
+sensational
+simulate
+compel
+possession
+morality
+parcel
+stationery
+recreational
+
+detract
+The dilapidated barn detracts charm from the landscape.
+
+deploy
+brochure
+```
