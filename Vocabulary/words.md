@@ -814,3 +814,48 @@ The dilapidated barn detracts charm from the landscape.
 deploy
 brochure
 ```
+
+Date:20240814
+```
+transaction
+This is a very shady transaction.
+
+guarantee
+Certainly,The product has a two-year guarantee.
+
+recreational
+Recreational substances were phased out here.
+
+scarce
+That bird has become scarce in this country.
+
+original
+Did you put the orginal in the tray.
+
+chancellor
+That boot-licking mole was my war chancellor.
+
+at random
+The Nautilus continued to wander at random.
+
+```
+Date:20240814
+```
+fracture
+Looks like you fractured your ulna.
+
+settle
+How are you settling in?
+
+fallow
+And most of those seeds will fall on fallow planets.
+
+troupe
+He was engaged to act in the celebrated Japanese troupe,
+
+premise
+We have a warrant to search the premise
+
+discerning
+He takes pleasure in "becoming as clever and discerning as the author herself"
+```
