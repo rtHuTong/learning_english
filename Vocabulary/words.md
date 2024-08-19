@@ -839,7 +839,7 @@ at random
 The Nautilus continued to wander at random.
 
 ```
-Date:20240814
+Date:20240815
 ```
 fracture
 Looks like you fractured your ulna.
@@ -858,4 +858,27 @@ We have a warrant to search the premise
 
 discerning
 He takes pleasure in "becoming as clever and discerning as the author herself"
+```
+Date:20240816
+```
+prospective
+We are meeting with prospective birth mothers.
+
+exclusive
+This was an exclusive report by CNN.
+
+confront
+We must publicize and confront the problem.
+
+overlapping
+No clasp,no buckle,no overlapping parts.
+
+pregnancy
+About half of all pregnancies globally are unintended.
+
+liaise
+I have to liaise very closely with our inspectors.
+
+continental
+On the Moon,there are no continental plate tectonics.
 ```
