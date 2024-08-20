@@ -882,3 +882,55 @@ I have to liaise very closely with our inspectors.
 continental
 On the Moon,there are no continental plate tectonics.
 ```
+Date:20240819
+```
+possession
+For them,increasing their possession is life.
+
+effect
+Extreme weather events can have devastating effects on subsistence farmers.
+
+affect
+The floods aren't just affecting lives,they're affecting livelihoods.
+
+artery
+Rivers really are the arteries of our planet.
+
+material
+But when I rinsed the material, the colour was just washed away.
+
+exposure
+fierce
+degrades
+
+haul
+At their nearby depot, Wecyclers sort and process 
+their haul.
+```
+Date:20240820
+```
+tramp
+So we have twwo tramps living in our house.
+
+possession
+For them, increasingtheir possession is life.
+
+incapacitate
+The first step is determining that he is incapacitated.
+
+prospectus
+Anyway, this is a night schoolprospectus.
+
+emission
+They also analyzed greenhouse gas emissions.
+
+processionn
+This is like an absolute, kind of parade procession.
+
+bistro
+The downtown bistros are great for dinner.
+
+crash
+And each tine I crashed I learned something, got better,and crashed less.
+
+```
