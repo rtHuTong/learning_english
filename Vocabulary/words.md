@@ -934,3 +934,32 @@ crash
 And each tine I crashed I learned something, got better,and crashed less.
 
 ```
+Date:20240821
+```
+originate
+Presumably, they don't originate from the Galactic Nucleus or AGN.
+
+dimension
+It does add a dimension to your relationships.
+
+pretension
+Okay, who thinks the food is delicious and a little pretension never hurt anyone?
+
+burglar
+A burglar broke into my house last night.
+
+scale
+Tip the scale of the brave and bold.
+
+fracture
+Okay, Looks like you fractured your ulna.
+
+sociology
+The book is good sociology, and, as a result, poor polemic.
+
+violent
+It was very violent, very vecious and terrible.
+
+frock
+She always makes the same frock.
+```
