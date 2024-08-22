@@ -963,3 +963,26 @@ It was very violent, very vecious and terrible.
 frock
 She always makes the same frock.
 ```
+Date:20240822
+```
+epidemic
+It was the largest epidemic in history.
+
+statue
+Tim was awarded a statue for Best Actor.
+
+appliance
+What appliances are you talking about?
+
+facility
+Excellent, I assume you have photocopying facilities?
+
+consecutive
+The play ran for two consecutive years in Broadway.
+
+arrogance
+But I call that arrogance matchless courage.
+
+rear
+And he attackss them from the rear.
+```
