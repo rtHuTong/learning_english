@@ -1006,3 +1006,29 @@ I think we've simply made a false assumption
 dissatisfied
 They have grown dissatisfied with the role of intellectual.
 ```
+Date:20240826
+```
+regulate
+For the past five years, authorities have been  strengthening their efforts to regulate them.
+
+onwords
+From that day onwords the situation worsened.
+
+assumption
+I think we've simply made a false assumption.
+
+conformity
+Confirmity means behaviour that is the same as the way most other people behave.
+
+embrace
+I want you to embrace the emotion and embrace the tears.
+
+engrave
+And , I heard that they engrave these pretty quickly when you win? 
+
+disrespectful
+President Erdogan's spokesman called the treatment disrespectful.
+
+commentary
+The scene is documentary gold. It requires no commentary, no intervuews.
+```
