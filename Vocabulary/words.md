@@ -1032,3 +1032,32 @@ President Erdogan's spokesman called the treatment disrespectful.
 commentary
 The scene is documentary gold. It requires no commentary, no intervuews.
 ```
+Date:20240827
+```
+vessel
+Surrounding the blood vessel is a tumor.
+
+teem
+Our night sky is literally teeming with exoplanets.
+
+arcade
+Something I go to a video arcade instead.
+
+mock 
+"Good plan" said Harry in mock admiration.
+
+territory
+They annexed the conquered territory to their country.
+
+prohibit
+U.S.persons are generally prohibited from conducting bussiness with a designated person.
+
+shipment
+We got a new shipment in yesterday.
+
+admiration
+They were lost in admiration of the scenery.
+
+annexed
+Britain annexed this small island in 1955.
+```
