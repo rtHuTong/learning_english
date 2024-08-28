@@ -1061,3 +1061,29 @@ They were lost in admiration of the scenery.
 annexed
 Britain annexed this small island in 1955.
 ```
+Date:20240828
+```
+deficiency
+Blood tests can detect nutritional deficiencies or infections that impact memory.
+
+simultaneous
+A simultaneous blizzard and a shaft of sickly sun.
+
+sundial
+The sundial, he was banished in a sundial.
+
+prohibit
+I believe that governments should prohibit activities like poaching.
+
+shipment
+It was the second shipment of the vaccine.
+
+shatter
+When something shatters, it breaks into many small pieces.
+
+truce
+If I do this, you and me, call a truce.
+
+discount
+We've give you a 10 percent discount.
+```
