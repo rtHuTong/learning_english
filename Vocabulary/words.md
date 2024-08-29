@@ -1087,3 +1087,26 @@ If I do this, you and me, call a truce.
 discount
 We've give you a 10 percent discount.
 ```
+Date:20240829
+```
+tough
+He say's it's been tough, Still it's tough
+
+eruption
+Volcanic eruptions are like fires in a chimney.
+
+pension
+Their state has a trmendous shorfall in funding for teachers' pensions.
+
+assignment
+Here it is ...the assignment, Let's full-screen. Next slide.
+
+assign
+What number would you assign to his abilities?
+
+concert
+Everyone except me went to the concert.
+
+stainless
+It is made of a surgical grade stainless steel.
+```
