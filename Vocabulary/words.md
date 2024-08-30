@@ -1110,3 +1110,23 @@ Everyone except me went to the concert.
 stainless
 It is made of a surgical grade stainless steel.
 ```
+Date:20240830
+```
+expectancy
+And if you are very sedentarym it can lead to a lower life expectancy.
+
+hallowed
+They're not sacred, they're not hallowed.
+
+climate
+Strawberries grow best in cool, moist climate.
+
+bring around
+The jailors had begun bringing around dinner.
+
+relevance
+Worse, the relevance of our curriculum is being challenged.
+
+reluctant
+State of Grace always a bit reluctant going in.
+```
