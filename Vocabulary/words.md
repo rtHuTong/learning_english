@@ -1130,3 +1130,58 @@ Worse, the relevance of our curriculum is being challenged.
 reluctant
 State of Grace always a bit reluctant going in.
 ```
+Date:20240902
+```
+daunt
+We should't be daunted by the  challenges we face.
+
+itinerary
+We have a fairly tight itinerary, Colonel.
+
+acclimatise
+Hewby has mentioned iy to me, and I have been to Dr.wray, who says I shall acclimatise without much illness.
+
+meadow
+Ten men went to mow a meadow.
+
+forthcoming
+The intelligence will be forthcoimg?
+
+quantity
+The height kind of represents the quantity.
+
+integral
+One integral aspect of language is the phoneme.
+
+intensive
+Two people are now in intensive care.
+```
+Date:20240903
+```
+magnify
+But the consequences of their overuse are just magnified.
+
+trek
+So it was different times each trek.
+
+structure
+The mounment is a famous structure in town.
+
+liquor
+Beer before liquor, never been sicker.
+
+presence
+I want you to leave my presence.
+
+blast
+He should have been blasted into smithereens.
+
+pudding
+And there we have it ---my custard pudding.
+
+embryo
+They are engaging in an embryo research.
+
+engage
+engage a carpenter.
+```
