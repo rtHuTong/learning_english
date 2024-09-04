@@ -1185,3 +1185,24 @@ They are engaging in an embryo research.
 engage
 engage a carpenter.
 ```
+Date:20240904
+```
+constitution
+Tweaking the constitution is not the answer.
+
+imitate
+When you imitate me, exaggerate it.
+
+sporadically
+The rebel authorties pay pensions sporadically.
+
+plunge
+plunge into an argument
+
+tweak
+He tweaked the boy's ear.
+
+rebel
+rebel troops
+a rebel army
+```
