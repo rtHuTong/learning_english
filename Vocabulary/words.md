@@ -1130,3 +1130,26 @@ Worse, the relevance of our curriculum is being challenged.
 reluctant
 State of Grace always a bit reluctant going in.
 ```
+Date:20240905
+```
+acknowledge
+Just to be acknowledged, You're acknowledgeing me.
+
+advocate
+Am I an aunt? Or am I an advocate?
+
+maintenance
+Then I'm okay with being high maintenance.
+
+spouse
+Were we supposed to bring our spouses?
+
+furnace
+Now the village is home to serveral large furnace.
+
+imitate
+What didi you have to imitate her for?
+
+intensive
+He spent threee nights in intensive care.
+```
