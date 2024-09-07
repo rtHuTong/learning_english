@@ -1153,3 +1153,32 @@ What didi you have to imitate her for?
 intensive
 He spent threee nights in intensive care.
 ```
+Date:20240907
+```
+intensive
+10 of them are in intensive care.
+
+expedition
+Why did you cut the expedition?
+
+incendiary
+So the body tries to temper this perceived incendiary pain.
+
+expansion
+And happiness is good, it's the expansion of self.
+
+unbiased
+Does that sound unbiased to you?
+
+postpone
+We file a motion to postpone?
+
+skim
+And that's when I realized you've been skimming.
+
+encase
+Or it's going to be ancasing something.
+
+perceive
+I perceive you feel the dint of pity.
+```
