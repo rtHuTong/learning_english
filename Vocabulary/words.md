@@ -1182,3 +1182,35 @@ Or it's going to be ancasing something.
 perceive
 I perceive you feel the dint of pity.
 ```
+Date:20240912
+```
+aggravation
+Spend time with family instead of coworkers,meditation instead of aggravation.
+
+incident
+Earlier Mr Patriota denounced the incident.
+
+lull
+You exhausted the helpful hormones that would have lulled you into a sound slumber.
+
+betray
+I have exposed him because he betrayed me.
+
+underlying
+Most were elderly, pr had underlying health conditions.
+
+opulent
+The more money changed hands,the more opulent the wedding.
+
+plush
+My fist in your plush, cuddly,super-soft face.
+
+dispense
+You have a responsibility to dispense justice.
+
+behalf 
+Anger can be a signal that we might need to act on our own behalf.
+
+initial
+Initial flu symptoms look a lot like initial coronavirus symptoms.
+```
