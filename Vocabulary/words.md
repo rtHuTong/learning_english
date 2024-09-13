@@ -1214,3 +1214,26 @@ Anger can be a signal that we might need to act on our own behalf.
 initial
 Initial flu symptoms look a lot like initial coronavirus symptoms.
 ```
+Date:20240913
+```
+despite
+Accept disappointment and learn to persevere, to pursue your dreams despite pitfalls.
+
+aggravation
+Spend time with family instead of cowrkers, meditation instead of aggravation.
+
+previous
+Other churches were conserved in previous years.
+
+dispense
+You have a responsibility to dispense justice.
+
+govern
+From this day forward, a new vision will govern our land.
+
+charter
+This one is a charter, Ethiopian Cargo.
+
+formidable
+Examinations are formidable even to the best prepared.
+```
