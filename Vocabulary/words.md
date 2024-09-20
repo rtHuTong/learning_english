@@ -1237,3 +1237,23 @@ This one is a charter, Ethiopian Cargo.
 formidable
 Examinations are formidable even to the best prepared.
 ```
+Date:20240920
+```
+threshold
+I'm guessing the threshold's clear now
+
+draft
+The professor told us to bring our drafts.
+
+urgent
+Please deliver the package first since it is the most urgent
+
+incapacitate
+The first step is determining that he is incapacited
+
+possession
+For them, increasing their possessions is life
+
+betray
+I have exposed him because he betrayed me.
+```
