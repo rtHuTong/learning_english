@@ -1257,3 +1257,32 @@ For them, increasing their possessions is life
 betray
 I have exposed him because he betrayed me.
 ```
+Date:20240923
+```
+fracture
+Looks like you fractured your ulna.
+
+crockery
+You hang up hurriedly and attend to baby,crockery,etc.
+
+diversify
+The skin is beautifully diversified with white spots.
+
+threshold
+I'm guessing the threshold's clear now.
+
+promising
+Another example, the initial business plan seemed very promising.
+
+derelict
+Or maybe it was a derelict alien startship.
+
+cascade
+This inspired a cascade of one-upsmanship among the other services.
+
+irritate
+You know what else is really irritating?
+
+initiative
+He announces the education initiative on Monday.
+```
