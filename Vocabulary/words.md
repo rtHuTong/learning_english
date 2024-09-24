@@ -1286,3 +1286,29 @@ You know what else is really irritating?
 initiative
 He announces the education initiative on Monday.
 ```
+Date:20240924
+```
+emission
+They also analyzed greenhouse gas emission.
+
+dispense
+You have a responsibility to dispense justice.
+
+diversify
+The skin is beautifully diversified with white spots.
+
+promising
+Another example , the initial business plan seemed very promising.
+
+derelict
+Or maybe it was a derelict alien starship.
+
+commence
+Come on then, Squirrels! let the search commence.
+
+initiative
+He announces the education initiative on Monday.
+
+crawl
+They crawled quicker . Sweat poured off them.
+```
