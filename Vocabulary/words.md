@@ -1312,3 +1312,20 @@ He announces the education initiative on Monday.
 crawl
 They crawled quicker . Sweat poured off them.
 ```
+Date:20240926
+```
+spoil
+Please don't spoil all this fun.
+
+motivate
+Be patient, be motivated, be hard working
+
+rim
+Let's clean the rim of the plate
+
+architect
+Elephants are the architects of the forest
+
+symptom
+They have shown no abnormal symptoms so far.
+```
