@@ -1130,6 +1130,7 @@ Worse, the relevance of our curriculum is being challenged.
 reluctant
 State of Grace always a bit reluctant going in.
 ```
+<<<<<<< HEAD
 Date:20240902
 ```
 daunt
@@ -1205,4 +1206,224 @@ He tweaked the boy's ear.
 rebel
 rebel troops
 a rebel army
+=======
+Date:20240905
+```
+acknowledge
+Just to be acknowledged, You're acknowledgeing me.
+
+advocate
+Am I an aunt? Or am I an advocate?
+
+maintenance
+Then I'm okay with being high maintenance.
+
+spouse
+Were we supposed to bring our spouses?
+
+furnace
+Now the village is home to serveral large furnace.
+
+imitate
+What didi you have to imitate her for?
+
+intensive
+He spent threee nights in intensive care.
+```
+Date:20240907
+```
+intensive
+10 of them are in intensive care.
+
+expedition
+Why did you cut the expedition?
+
+incendiary
+So the body tries to temper this perceived incendiary pain.
+
+expansion
+And happiness is good, it's the expansion of self.
+
+unbiased
+Does that sound unbiased to you?
+
+postpone
+We file a motion to postpone?
+
+skim
+And that's when I realized you've been skimming.
+
+encase
+Or it's going to be ancasing something.
+
+perceive
+I perceive you feel the dint of pity.
+```
+Date:20240912
+```
+aggravation
+Spend time with family instead of coworkers,meditation instead of aggravation.
+
+incident
+Earlier Mr Patriota denounced the incident.
+
+lull
+You exhausted the helpful hormones that would have lulled you into a sound slumber.
+
+betray
+I have exposed him because he betrayed me.
+
+underlying
+Most were elderly, pr had underlying health conditions.
+
+opulent
+The more money changed hands,the more opulent the wedding.
+
+plush
+My fist in your plush, cuddly,super-soft face.
+
+dispense
+You have a responsibility to dispense justice.
+
+behalf 
+Anger can be a signal that we might need to act on our own behalf.
+
+initial
+Initial flu symptoms look a lot like initial coronavirus symptoms.
+```
+Date:20240913
+```
+despite
+Accept disappointment and learn to persevere, to pursue your dreams despite pitfalls.
+
+aggravation
+Spend time with family instead of cowrkers, meditation instead of aggravation.
+
+previous
+Other churches were conserved in previous years.
+
+dispense
+You have a responsibility to dispense justice.
+
+govern
+From this day forward, a new vision will govern our land.
+
+charter
+This one is a charter, Ethiopian Cargo.
+
+formidable
+Examinations are formidable even to the best prepared.
+```
+Date:20240920
+```
+threshold
+I'm guessing the threshold's clear now
+
+draft
+The professor told us to bring our drafts.
+
+urgent
+Please deliver the package first since it is the most urgent
+
+incapacitate
+The first step is determining that he is incapacited
+
+possession
+For them, increasing their possessions is life
+
+betray
+I have exposed him because he betrayed me.
+```
+Date:20240923
+```
+fracture
+Looks like you fractured your ulna.
+
+crockery
+You hang up hurriedly and attend to baby,crockery,etc.
+
+diversify
+The skin is beautifully diversified with white spots.
+
+threshold
+I'm guessing the threshold's clear now.
+
+promising
+Another example, the initial business plan seemed very promising.
+
+derelict
+Or maybe it was a derelict alien startship.
+
+cascade
+This inspired a cascade of one-upsmanship among the other services.
+
+irritate
+You know what else is really irritating?
+
+initiative
+He announces the education initiative on Monday.
+```
+Date:20240924
+```
+emission
+They also analyzed greenhouse gas emission.
+
+dispense
+You have a responsibility to dispense justice.
+
+diversify
+The skin is beautifully diversified with white spots.
+
+promising
+Another example , the initial business plan seemed very promising.
+
+derelict
+Or maybe it was a derelict alien starship.
+
+commence
+Come on then, Squirrels! let the search commence.
+
+initiative
+He announces the education initiative on Monday.
+
+crawl
+They crawled quicker . Sweat poured off them.
+```
+Date:20240926
+```
+spoil
+Please don't spoil all this fun.
+
+motivate
+Be patient, be motivated, be hard working
+
+rim
+Let's clean the rim of the plate
+
+architect
+Elephants are the architects of the forest
+
+symptom
+They have shown no abnormal symptoms so far.
+>>>>>>> 202409
+```
+Date:20240924
+```
+in accordaance with
+Passengers ought to make declaration in accordnce with the regulations.
+
+tremendous
+And the transition is a tremendous priority.
+
+patent
+Wonder if you could patent a movement?
+
+motivate
+Be patient, be motivated, be hard working.
+
+rotate
+Millions of years ago, the moon rotated rapidly.
+
+initiative
+He announces the education initiative on Monday.
 ```
